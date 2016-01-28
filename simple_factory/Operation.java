@@ -1,10 +1,10 @@
-package simple_factory;
+﻿package simple_factory;
 
 /**
  * 运算类 2个属性 1个方法(不包括属性的get、set方法) / The operation class 2 attribute 1 function(not include the get set function)
  * @author Jason_★ 
  */
-public class Operation 
+public abstract class Operation 
 {
 	protected double numberA = 0 ;
 	protected double numberB = 0 ;
