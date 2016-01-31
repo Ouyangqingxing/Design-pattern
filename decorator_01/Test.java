@@ -1,4 +1,4 @@
-package decorator_01;
+﻿package decorator_01;
 
 /**
  * 测试类 / test class 
@@ -14,7 +14,7 @@ public class Test
 	 * 
 	 * Design pattern:Decorator
 	 * Solve the question:Just like a virtual character change clothes.
-	 * The decorator pattern make it dynamically to add more function,and distinguish the key duty parts with the decorator parts.
+	 * The decorator pattern make it dynamically to add more function,and distinguish between the key duty parts and the decorator parts.
 	 * There is just a demo example.Also it have complex example like before we save the data,we would do some "decorator" like filter data and encryption data.
 	 * 
 	 * @param args
