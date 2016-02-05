@@ -4,4 +4,4 @@
 
 DesignPattern:Singleton.
 Example:mysql database connection class. 
-Notice:You'd better have install the mysql and add the jar file in the program or you can't running this example.
+Notice:You'd better have install the mysql and add the jar file in the program or you can't running this example~
