@@ -1,4 +1,4 @@
-package factory_method_01; 
+﻿package factory_method_01; 
 
 /**
  * 测试类 / test class
@@ -19,7 +19,19 @@ public class Test
 	 */
 	public static void main(String[] args) 
 	{
-		OperationFactory opFact = new Factory_add();
+		//OperationFactory opFact = new Factory_add();	不使用反射的情况下 	/  without the reflection 
+		
+		//使用反射		/	use the reflection
+		@SuppressWarnings("rawtypes")
+		Class c1;
+		OperationFactory opFact = null;
+		try
+		{
+			c1 = Class.forName("factory_method_01.Factory_add");
+			opFact = (OperationFactory) c1.newInstance();
+		}
+		catch(Exception e){e.printStackTrace();}
+		
 		Operation oper = opFact.createOperation();
 		
 		oper.setNumberA(100);
