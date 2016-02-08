@@ -19,3 +19,31 @@ Lv.2 Study several design patterns.Just like discovery of the new continent.Cons
 Lv.3 Study patterns more than a half and all the principles.You may be find they are very similar.And you afraid of using wrong pattern.
 Lv.4 Study all the patterns.You are mass of them.You need so many example and try again and again to level up.
 Lv.5 You can use all the patterns easily.And you always design a perfect hierarchical structure by yourself rather than a kind of pattern.You just "without action get the better of have action".
+
+
+  模式			    Pattern
+
+简单工厂	-	Simple Factory
+策    略	-	Strategy
+装    饰 	-	Decorator
+代    理	-	Proxy
+工厂方法 	-	Factory Method
+原    型 	-	Prototype
+模板方法	-	Template Method
+外    观	-	Facade
+建 造 者	-	Builder
+观 察 者 	-	Observer
+抽象工厂	-	Abstract Factory
+状    态	-	State
+适 配 器	-	Adapter
+备 忘 录	-	Memento
+组    合	-	Composite
+迭 代 器	-	Iterator
+单    例 	-	Singleton
+桥    接	-	Bridge
+命    令	-	Command
+职 责 链	-	Chain of Responsibility
+中 介 者	-	Mediator
+享    元	-	Flyweight
+解 释 器	-	Interpreter
+访 问 者	-	Visitor
