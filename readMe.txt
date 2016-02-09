@@ -21,7 +21,7 @@ Lv.4 Study all the patterns.You are mass of them.You need so many example and tr
 Lv.5 You can use all the patterns easily.And you always design a perfect hierarchical structure by yourself rather than a kind of pattern.You just "without action get the better of have action".
 
 
-  模式		  Pattern
+  模式		     Pattern
 
 简单工厂----------Simple Factory
 策    略----------Strategy
