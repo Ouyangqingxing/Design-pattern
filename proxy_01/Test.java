@@ -1,4 +1,4 @@
-package proxy_01;
+﻿package proxy_01;
 
 /**
  * 测试类 / test class
@@ -12,7 +12,7 @@ public class Test
 	 * 解决问题：无。本程序仅通过 追求者、被追求者、代理追求者 形象的将代理模式展现出来。
 	 * 
 	 * Design pattern:Proxy.
-	 * definition:Provide a agent to visit the object for other object.
+	 * Definition:Provide a agent to visit the object for other object.
 	 * Solve the problem:Nothing.But this program make it easily to understand the pattern by the admirer and agent and somebody who was admired.
 	 * 
 	 * @param args
