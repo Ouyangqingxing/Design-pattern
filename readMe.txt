@@ -28,7 +28,7 @@ Lv.5 You can use all the patterns easily.And you always design a perfect hierarc
 √装    饰----------Decorator
 √代    理----------Proxy
 √工厂方法----------Factory Method
-原    型----------Prototype
+√原    型----------Prototype
 模板方法----------Template Method
 外    观----------Facade
 建 造 者----------Builder
