@@ -1,6 +1,7 @@
 Ò»ÆğÑ§Ï°Éè¼ÆÄ£Ê½°É£¡ÎÒ»áÔÚÑ§Ï°µÄÍ¬Ê±Ğ´Ò»Ğ©³ÌĞò~
 Í¬Ò»¸öÉè¼ÆÄ£Ê½Ò²»áĞ´¶à¸öÊµÀı~
-£¨Ps£ºÃ¿Ò»¸öÄ£Ê½µÄËµÃ÷ºÍ½²½â¶¼ÔÚ²âÊÔÀàÀï£©
+
+£¨Ps£ºÃ¿Ò»¸öÄ£Ê½µÄËµÃ÷ºÍ½²½â¶¼ÔÚ²âÊÔÀàÀï¡£µÚÒ»¸öÊµÀıÍ¨³£Ã»ÓĞÔÚÏîÄ¿ÖĞµÄÊµÓÃ¼ÛÖµ£¬µ«ËüÄÜÈÃÎÒÃÇ¸üºÃÀí½â¸ÃÄ£Ê½¡££©
 
 ¡ïÉè¼ÆÄ£Ê½ Ö® ÎåÖØ¾³½ç¡ï
 Lv.1 ´ÓÀ´Ã»Ñ§¹ıÉè¼ÆÄ£Ê½¡£¶ÔÃæÏò¶ÔÏóÀí½â²»Éî£¬Éè¼ÆµÄ´úÂë¡¢Ä£¿é·Ç³£Ôã¸â¡£ 
@@ -11,7 +12,7 @@ Lv.5 Áé»îÊ¹ÓÃ¸÷ÖÖÄ£Ê½£¬ÈÚ»á¹áÍ¨¡£ÉõÖÁ²»ÓÃÒ»¸ö¾ßÌåµÄÄ£Ê½Ò²ÄÜÉè¼Æ³ö·Ç³£ÓÅĞã·Ç³£ºÏÊ
 
 Study design pattern together! I'd like to code some program when I study it.
 Every design pattern have one more example~
-£¨By the way,every detail and explain will in the test class£©
+£¨By the way,every detail and explain will in the test class.And the first example in each pattern maybe not so useful in project,but it makes we understand the pattern eayily£©
 
 ¡ïDesign pattern 's five Levels¡ï
 Lv.1 Never study the design pattern.Know very less about object-oriented.The code is terrible. 
