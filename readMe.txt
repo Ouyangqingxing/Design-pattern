@@ -10,7 +10,7 @@ Lv.3 学习了过半的模式,以及所有原则。感觉模式之前诸多相似，无法分清差异。同时害怕
 Lv.4 学习了所有的模式。此时脑中非常凌乱，需要大量的实践、应用才能到达下一个阶段。
 Lv.5 灵活使用各种模式，融会贯通。甚至不用一个具体的模式也能设计出非常优秀非常合适的层次结构，达到无招胜有招。
 
-Study design pattern together! I'd like to code some program when I study it.
+Study design pattern together! I'd like to code some program when I study it~
 Every design pattern have one more example~
 （By the way,every detail and explain will in the test class.And the first example in each pattern maybe not so useful in project,but it makes we understand the pattern eayily）
 
