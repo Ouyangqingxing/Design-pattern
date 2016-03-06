@@ -51,6 +51,6 @@ Lv.5 You can use all the patterns easily.And you always design a perfect hierarc
 
 
 参考文献：
-
+ 
 	《大话设计模式》	- 程杰
 	《JavaWeb设计模式之道》	- 蒋海昌	
