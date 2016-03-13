@@ -21,6 +21,7 @@ Lv.3 Study patterns more than a half and all the principles.You may be find they
 Lv.4 Study all the patterns.You are mass of them.You need so many example and try again and again to level up.
 Lv.5 You can use all the patterns easily.And you always design a perfect hierarchical structure by yourself rather than a kind of pattern.You just "without action get the better of have action".
 
+
   模式		     Pattern
 
 √简单工厂----------Simple Factory
