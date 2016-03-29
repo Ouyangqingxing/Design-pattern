@@ -33,13 +33,13 @@ Lv.5 You can use all the patterns easily.And you always design a perfect hierarc
 √模板方法----------Template Method
 √外    观----------Facade
 √建 造 者----------Builder
-观 察 者----------Observer
+√观 察 者----------Observer
 √抽象工厂----------Abstract Factory
-状    态----------State
-适 配 器----------Adapter
-备 忘 录----------Memento
-组    合----------Composite
-迭 代 器----------Iterator
+√状    态----------State
+√适 配 器----------Adapter
+√备 忘 录----------Memento
+√组    合----------Composite
+√迭 代 器----------Iterator
 √单    例 ----------Singleton
 桥    接----------Bridge
 命    令----------Command
